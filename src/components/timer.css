@@ -1,0 +1,30 @@
+.format {
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    margin: 20px 10px 10px 10px;
+    border-style: solid;
+}
+
+.format h1 {
+    padding: 65px 0px;
+    font-size: 80px;
+}
+
+.format button {
+    width: 40%;
+    height: 50px;
+    background-color: #008CBA;
+    font-size: 30px;
+}
+
+#start {
+    float: left;
+    margin: 0px 0px 0px 10px;
+}
+
+#reset {
+    float: right;
+    margin: 0px 10px 0px 0px;
+}
